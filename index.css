@@ -106,7 +106,7 @@
 	display: flex;
 	background-image: url(bg.jpg);
 	width:100vw;
-	height:826px;
+	min-height:826px;
 	background-repeat: no-repeat;
 }
 .bar{
